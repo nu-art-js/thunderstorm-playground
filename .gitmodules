@@ -6,3 +6,7 @@
 [submodule "_wiki"]
 	path = _wiki
 	url = git@github.com:nu-art-js/thunderstorm.wiki.git
+[submodule "_thunderstorm"]
+	path = _thunderstorm
+	url = git@github.com:nu-art-js/thunderstorm.git
+	branch = vdk/temp
